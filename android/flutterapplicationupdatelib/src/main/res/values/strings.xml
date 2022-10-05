@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Xyz</string>
+    <string name="update_title">needs an update</string>
+    <string name="update_force_dsc">To use this app, download the latest\nversion.</string>
+    <string name="update_dsc">An Update to digiQc UAT is available.\nWould you like to update ?</string>
+    <string name="btn_no_thanks">No, thanks</string>
+    <string name="maintenance">This app is under\nmaintenance</string>
+
+</resources>
